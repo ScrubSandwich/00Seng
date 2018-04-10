@@ -5,3 +5,7 @@ The object of the game is score as many points as possible in the allotted time 
 
 
 All graphics were hand drawn in Microsoft Paint and Paint.net. Picutres of Ka Seng Lim (00Seng) and my sister (Enemies) used with permission.
+
+## Dependencies
+Need to have `pygame` installed
+Run `pip install pygame` from your command line
